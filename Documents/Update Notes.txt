@@ -1,0 +1,7 @@
+**********************************************************************************************************************************************HOW LONG TECHNICAL PREVIEW******************
+****************DEVELOPED FOR DEVILSINC STUDIOS***************
+***************COPYRIGHT DEVILS INC STUDIOS 2015**************
+****************************************************************************************************************************
+
+VERSION 0.0.1
+FIXED:	Issue with Audio been heard no matter where you were 		in the level. This has now been corrected with 			updated 3D audio settings.
